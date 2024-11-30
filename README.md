@@ -10,4 +10,5 @@
 ![image](https://github.com/user-attachments/assets/755f312f-2295-4b3d-bcf0-47c46815749a)
 
 ## Пример работы
-<img width="1278" alt="image" src="https://github.com/user-attachments/assets/4d57c151-5f1b-4d7a-98d7-53a1c29ac5e0">
+<img width="1278" alt="hand_example" src="https://github.com/user-attachments/assets/7562a767-e97c-42a5-9b48-9294a65effc5">
+
