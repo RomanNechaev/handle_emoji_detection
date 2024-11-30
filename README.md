@@ -12,3 +12,4 @@
 ## Пример работы
 <img width="1278" alt="hand_example" src="https://github.com/user-attachments/assets/7562a767-e97c-42a5-9b48-9294a65effc5">
 
+## За основу взят репозиторий  - https://github.com/kinivi/hand-gesture-recognition-mediapipe/tree/main
