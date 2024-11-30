@@ -8,3 +8,6 @@
 
 ## Пайплайн работы приложения
 ![image](https://github.com/user-attachments/assets/755f312f-2295-4b3d-bcf0-47c46815749a)
+
+## Пример работы
+<img width="1278" alt="image" src="https://github.com/user-attachments/assets/4d57c151-5f1b-4d7a-98d7-53a1c29ac5e0">
