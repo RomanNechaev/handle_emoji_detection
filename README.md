@@ -9,6 +9,9 @@
 ## Пайплайн работы приложения
 ![image](https://github.com/user-attachments/assets/755f312f-2295-4b3d-bcf0-47c46815749a)
 
+Нейронка обучалась на датасете, сгенерированным вручную посредством захвата `правильных` позиций руки посредством того же mediapipe api.
+Датасет лежит в `keypoint.csv`.
+
 ## Пример работы
 <img width="1278" alt="hand_example" src="https://github.com/user-attachments/assets/7562a767-e97c-42a5-9b48-9294a65effc5">
 
